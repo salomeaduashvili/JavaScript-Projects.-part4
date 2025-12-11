@@ -1,4 +1,4 @@
-# JavaScript Practice - Interactive Console Projects: 19–27;
+# JavaScript Practice - Interactive Console Projects: 28–34;
 
 This project contains JavaScript console-based exercises, each designed to strengthen understanding of strings, numbers, user input, functions, loops, arrays, objects and conditionals.
 Tasks use prompt-sync to collect user input and run directly in the terminal.
